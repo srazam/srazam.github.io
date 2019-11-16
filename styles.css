@@ -21,6 +21,12 @@ h1 {
   margin-left: 20px; /*this line moves everything in this tag 20 pixels over from the left!*/
   
   font-family: 'Courier New', Courier, monospace;
+  
+  border-style: dotted;
+  
+  border-width: 2px;
+  
+  border-color: green;
 
 }
 
